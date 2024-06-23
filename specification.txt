@@ -1,0 +1,4 @@
+Using the principles of Reactive Programming and the Nobel Prize API, implement an application to display the names of Nobel Prize laureates,
+the category in which they won the prize, and the year they won the prize. Use the https://api.nobelprize.org/2.1/nobelPrizes endpoint.
+When making the call, pass the appropriate range of years for which the data will be retrieved. For the collected data,
+determine the average awarded monetary prize (use the prizeAmountAdjusted property). Display the obtained results.
